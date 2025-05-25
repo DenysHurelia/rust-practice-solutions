@@ -33,6 +33,6 @@ fn draw_envelope(w: usize, h: usize) {
             row.push(ch);
         }
 
-        println!("{}", row); // один println!
+        println!("{}", row);
     }
 }
